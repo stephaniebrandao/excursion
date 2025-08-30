@@ -1,0 +1,63 @@
+html {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+}
+
+/* Header */
+h1 {
+    color: white;
+    font-weight: normal;
+    font-size: 3.125rem;
+    text-align: center;
+}
+
+h5 {
+    color: aquamarine;
+    font-size: 1rem;
+    font-weight: lighter;
+    text-align: center;
+    text-decoration: underline;
+}
+
+video {
+    display: block;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+/* Body */
+h2 {
+    font-weight: 300;
+    font-size: 2.625rem;
+    color: white;
+    text-align: center;
+}
+
+h4 {
+    color: gray;
+    font-size: 1.3125rem;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    justify-content: center;
+    width: 50%;
+}
+
+.phone {
+    display: block;
+    margin: 30px auto;
+    justify-content: center;
+    width: 60px;
+    height: 100px;
+}
+
+/* Footer */
+p {
+    color: gray;
+    text-align: right;
+    font-size: 0.875rem;
+}
